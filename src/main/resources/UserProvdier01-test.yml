@@ -13,7 +13,6 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-#一定注意eureka与spring属于平级 注意格式
 eureka:
   client:
     service-url:
